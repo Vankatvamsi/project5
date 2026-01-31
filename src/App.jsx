@@ -31,7 +31,7 @@ export default class App extends Component {
         </div>
 
         <div className="footer">
-          © 2024 Kanthi. All rights reserved.
+          © 2024 vamsi. All rights reserved.
         </div>
       </div>
     );
